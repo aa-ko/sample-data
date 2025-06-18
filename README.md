@@ -11,3 +11,4 @@ These files are practical for testing and may even be funny.
 | [link](image/gif/shrek.gif) | `image/gif` | ? | The 2001 animated movie **Shrek** in a single GIF file. | Found this in my Downloads folder. |
 | [link](text/plain/brr_brr_pata.pem) | `text/plain` | [Joschua](https://github.com/JoschuaSchneider) | OpenSSH key file containing Italian Brain Rot pixel art. | brain rot |
 | [link](text/csv/Bratheringe_in_wuerziger_Marinade.csv) | `text/csv` | [German Government Open Data](https://www.govdata.de/) | Various measurements of radioactive substances found in a sample of store-bought fried herring. | Sadly, the exact file is no longer available for download. However, there are a few available [alternatives](https://www.govdata.de/suche?q=bratheringe). |
+| [link](image/gif/fish-spinning.gif) | `image/gif` | [Joschua](https://github.com/JoschuaSchneider) | Fish (spinning) | fish |
